@@ -1,0 +1,253 @@
+2020/04/24 16:19:24 INFO [django.utils.autoreload:12:Watching for file changes with StatReloader]
+2020/04/24 16:19:34 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 16:22:12 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 16:22:50 INFO [django.utils.autoreload:30:Watching for file changes with StatReloader]
+2020/04/24 16:23:35 INFO [django.utils.autoreload:30:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:23:36 INFO [django.utils.autoreload:33:Watching for file changes with StatReloader]
+2020/04/24 16:23:36 INFO [django.utils.autoreload:8:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:23:37 INFO [django.utils.autoreload:36:Watching for file changes with StatReloader]
+2020/04/24 16:23:54 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 16:23:57 WARNING [django.request:8:Not Found: /]
+2020/04/24 16:23:57 WARNING [django.server:8:"GET / HTTP/1.0" 404 2015]
+2020/04/24 16:23:58 WARNING [django.request:8:Not Found: /favicon.ico]
+2020/04/24 16:23:58 WARNING [django.server:8:"GET /favicon.ico HTTP/1.0" 404 2066]
+2020/04/24 16:24:02 WARNING [django.request:8:Not Found: /api/v1/list/]
+2020/04/24 16:24:02 WARNING [django.server:8:"GET /api/v1/list/ HTTP/1.0" 404 1965]
+2020/04/24 16:24:18 INFO [django.utils.autoreload:8:/src/myapp/urls.py changed, reloading.]
+2020/04/24 16:24:19 INFO [django.utils.autoreload:14:Watching for file changes with StatReloader]
+2020/04/24 16:24:37 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 16:25:40 INFO [django.utils.autoreload:31:Watching for file changes with StatReloader]
+2020/04/24 16:25:56 INFO [django.utils.autoreload:31:/src/myapp/urls.py changed, reloading.]
+2020/04/24 16:25:57 INFO [django.utils.autoreload:8:/src/myapp/urls.py changed, reloading.]
+2020/04/24 16:25:57 INFO [django.utils.autoreload:34:Watching for file changes with StatReloader]
+2020/04/24 16:25:58 INFO [django.utils.autoreload:36:Watching for file changes with StatReloader]
+2020/04/24 16:26:09 INFO [django.utils.autoreload:9:Watching for file changes with StatReloader]
+2020/04/24 16:26:11 INFO [django.server:9:"GET /api/v1/list/ HTTP/1.0" 200 9604]
+2020/04/24 16:26:14 INFO [django.server:9:"GET /api/v1/list/ HTTP/1.0" 200 9604]
+2020/04/24 16:26:33 INFO [django.server:9:"GET /api/v1/list/ HTTP/1.0" 200 9604]
+2020/04/24 16:27:00 INFO [django.server:9:"GET /api/v1/list/ HTTP/1.0" 200 9604]
+2020/04/24 16:28:14 INFO [django.server:9:"GET /api/v1/list/ HTTP/1.0" 200 9604]
+2020/04/24 16:28:17 WARNING [django.request:9:Method Not Allowed: /api/v1/create/]
+2020/04/24 16:28:17 WARNING [django.server:9:"GET /api/v1/create/ HTTP/1.0" 405 13193]
+2020/04/24 16:28:20 INFO [django.server:9:"GET /api/v1/create HTTP/1.0" 301 0]
+2020/04/24 16:39:35 INFO [django.utils.autoreload:9:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:39:36 INFO [django.utils.autoreload:35:Watching for file changes with StatReloader]
+2020/04/24 16:39:53 INFO [django.utils.autoreload:35:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:39:53 INFO [django.utils.autoreload:38:Watching for file changes with StatReloader]
+2020/04/24 16:40:05 INFO [django.utils.autoreload:38:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:40:06 INFO [django.utils.autoreload:41:Watching for file changes with StatReloader]
+2020/04/24 16:41:39 INFO [django.utils.autoreload:41:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:41:40 INFO [django.utils.autoreload:44:Watching for file changes with StatReloader]
+2020/04/24 16:42:02 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 16:42:27 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 16:42:30 WARNING [django.request:8:Method Not Allowed: /api/v1/create/]
+2020/04/24 16:42:30 WARNING [django.server:8:"GET /api/v1/create/ HTTP/1.0" 405 13193]
+2020/04/24 16:43:40 INFO [django.utils.autoreload:8:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:43:41 INFO [django.utils.autoreload:12:Watching for file changes with StatReloader]
+2020/04/24 16:44:10 INFO [django.utils.autoreload:31:Watching for file changes with StatReloader]
+2020/04/24 16:45:15 INFO [django.utils.autoreload:36:Watching for file changes with StatReloader]
+2020/04/24 16:46:32 INFO [django.utils.autoreload:12:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:46:32 INFO [django.utils.autoreload:36:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:46:33 INFO [django.utils.autoreload:39:Watching for file changes with StatReloader]
+2020/04/24 16:46:33 INFO [django.utils.autoreload:41:Watching for file changes with StatReloader]
+2020/04/24 16:46:42 INFO [django.utils.autoreload:39:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:46:43 INFO [django.utils.autoreload:41:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:46:43 INFO [django.utils.autoreload:45:Watching for file changes with StatReloader]
+2020/04/24 16:46:44 INFO [django.utils.autoreload:47:Watching for file changes with StatReloader]
+2020/04/24 16:46:55 INFO [django.utils.autoreload:45:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:46:55 INFO [django.utils.autoreload:47:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:46:56 INFO [django.utils.autoreload:51:Watching for file changes with StatReloader]
+2020/04/24 16:46:56 INFO [django.utils.autoreload:52:Watching for file changes with StatReloader]
+2020/04/24 16:50:04 INFO [django.utils.autoreload:52:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:50:04 INFO [django.utils.autoreload:51:/src/testapp/settings.py changed, reloading.]
+2020/04/24 16:50:05 INFO [django.utils.autoreload:57:Watching for file changes with StatReloader]
+2020/04/24 16:50:05 INFO [django.utils.autoreload:58:Watching for file changes with StatReloader]
+2020/04/24 16:51:31 INFO [django.utils.autoreload:65:Watching for file changes with StatReloader]
+2020/04/24 16:51:54 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 16:51:55 WARNING [django.request:8:Method Not Allowed: /api/v1/create/]
+2020/04/24 16:51:55 WARNING [django.server:8:"GET /api/v1/create/ HTTP/1.0" 405 13193]
+2020/04/24 16:52:07 INFO [django.server:8:"GET /api/test HTTP/1.0" 301 0]
+2020/04/24 16:52:07 ERROR [django.request:8:Internal Server Error: /api/test/]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/src/myapp/views.py", line 14, in hello
+    fail_silently=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/__init__.py", line 60, in send_mail
+    return mail.send()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/message.py", line 291, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 103, in send_messages
+    new_conn_created = self.open()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=bkozlovsky@bk.ru')
+2020/04/24 16:52:07 ERROR [django.server:8:"GET /api/test/ HTTP/1.0" 500 96309]
+2020/04/24 16:52:28 INFO [django.utils.autoreload:8:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:52:29 INFO [django.utils.autoreload:14:Watching for file changes with StatReloader]
+2020/04/24 16:52:34 ERROR [django.request:14:Internal Server Error: /api/test/]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view myapp.views.hello didn't return an HttpResponse object. It returned None instead.
+2020/04/24 16:52:34 ERROR [django.server:14:"GET /api/test/ HTTP/1.0" 500 54011]
+2020/04/24 16:53:06 INFO [django.utils.autoreload:14:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:53:07 INFO [django.utils.autoreload:18:Watching for file changes with StatReloader]
+2020/04/24 16:53:09 INFO [django.server:18:"GET /api/test/ HTTP/1.0" 200 4]
+2020/04/24 16:53:55 INFO [django.utils.autoreload:18:/src/myapp/views.py changed, reloading.]
+2020/04/24 16:53:56 INFO [django.utils.autoreload:22:Watching for file changes with StatReloader]
+2020/04/24 16:54:05 ERROR [django.request:22:Internal Server Error: /api/test/]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/src/myapp/views.py", line 15, in hello
+    fail_silently=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/__init__.py", line 60, in send_mail
+    return mail.send()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/message.py", line 291, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 103, in send_messages
+    new_conn_created = self.open()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=bkozlovsky@bk.ru')
+2020/04/24 16:54:05 ERROR [django.server:22:"GET /api/test/ HTTP/1.0" 500 96449]
+2020/04/24 17:01:33 INFO [django.utils.autoreload:22:/src/testapp/settings.py changed, reloading.]
+2020/04/24 17:01:34 INFO [django.utils.autoreload:26:Watching for file changes with StatReloader]
+2020/04/24 17:01:41 ERROR [django.request:26:Internal Server Error: /api/test/]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/src/myapp/views.py", line 15, in hello
+    fail_silently=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/__init__.py", line 60, in send_mail
+    return mail.send()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/message.py", line 291, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 103, in send_messages
+    new_conn_created = self.open()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=bkozlovsky@bk.ru')
+2020/04/24 17:01:41 ERROR [django.server:26:"GET /api/test/ HTTP/1.0" 500 96449]
+2020/04/24 17:02:05 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 17:02:07 ERROR [django.request:8:Internal Server Error: /api/test/]
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/handlers/base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/src/myapp/views.py", line 15, in hello
+    fail_silently=False)
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/__init__.py", line 60, in send_mail
+    return mail.send()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/message.py", line 291, in send
+    return self.get_connection(fail_silently).send_messages([self])
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 103, in send_messages
+    new_conn_created = self.open()
+  File "/usr/local/lib/python3.6/dist-packages/django/core/mail/backends/smtp.py", line 70, in open
+    self.connection.login(self.username, self.password)
+  File "/usr/lib/python3.6/smtplib.py", line 730, in login
+    raise last_exception
+  File "/usr/lib/python3.6/smtplib.py", line 721, in login
+    initial_response_ok=initial_response_ok)
+  File "/usr/lib/python3.6/smtplib.py", line 642, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (535, b'Authentication failed. Please verify your account by going to https://e.mail.ru/login?email=bkozlovsky@bk.ru')
+2020/04/24 17:02:07 ERROR [django.server:8:"GET /api/test/ HTTP/1.0" 500 96449]
+2020/04/24 17:05:22 INFO [django.utils.autoreload:8:/src/testapp/settings.py changed, reloading.]
+2020/04/24 17:05:23 INFO [django.utils.autoreload:12:Watching for file changes with StatReloader]
+2020/04/24 17:06:05 INFO [django.utils.autoreload:12:/src/testapp/settings.py changed, reloading.]
+2020/04/24 17:06:06 INFO [django.utils.autoreload:15:Watching for file changes with StatReloader]
+2020/04/24 17:06:12 INFO [django.utils.autoreload:15:/src/myapp/views.py changed, reloading.]
+2020/04/24 17:06:13 INFO [django.utils.autoreload:18:Watching for file changes with StatReloader]
+2020/04/24 17:25:18 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 17:26:04 INFO [django.utils.autoreload:30:Watching for file changes with StatReloader]
+2020/04/24 17:26:20 INFO [django.utils.autoreload:8:/src/myapp/urls.py changed, reloading.]
+2020/04/24 17:26:20 INFO [django.utils.autoreload:30:/src/myapp/urls.py changed, reloading.]
+2020/04/24 17:26:21 INFO [django.utils.autoreload:33:Watching for file changes with StatReloader]
+2020/04/24 17:26:21 INFO [django.utils.autoreload:35:Watching for file changes with StatReloader]
+2020/04/24 17:26:46 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 17:27:00 INFO [django.server:8:"GET /api/v1/list/ HTTP/1.0" 200 9604]
+2020/04/24 17:27:02 WARNING [django.request:8:Method Not Allowed: /api/v1/create/]
+2020/04/24 17:27:02 WARNING [django.server:8:"GET /api/v1/create/ HTTP/1.0" 405 13193]
+2020/04/24 17:27:27 INFO [django.server:8:"GET /admin/ HTTP/1.0" 200 4514]
+2020/04/24 17:27:27 INFO [django.server:8:"GET /admin/ HTTP/1.0" 200 4514]
+2020/04/24 17:27:29 INFO [django.server:8:"GET /admin/myapp/remindtime/ HTTP/1.0" 200 3382]
+2020/04/24 17:27:29 INFO [django.server:8:"GET /admin/jsi18n/ HTTP/1.0" 200 14909]
+2020/04/24 17:27:31 INFO [django.server:8:"GET /admin/myapp/remindtime/add/ HTTP/1.0" 200 4263]
+2020/04/24 17:27:31 INFO [django.server:8:"GET /admin/jsi18n/ HTTP/1.0" 200 14909]
+2020/04/24 17:27:35 INFO [django.server:8:"POST /admin/myapp/remindtime/add/ HTTP/1.0" 302 0]
+2020/04/24 17:27:35 INFO [django.server:8:"GET /admin/myapp/remindtime/ HTTP/1.0" 200 4851]
+2020/04/24 17:27:35 INFO [django.server:8:"GET /admin/jsi18n/ HTTP/1.0" 200 14909]
+2020/04/24 17:27:37 WARNING [django.request:8:Method Not Allowed: /api/v1/create/]
+2020/04/24 17:27:37 WARNING [django.server:8:"GET /api/v1/create/ HTTP/1.0" 405 13265]
+2020/04/24 17:27:48 WARNING [django.request:8:Bad Request: /api/v1/create/]
+2020/04/24 17:27:48 WARNING [django.server:8:"POST /api/v1/create/ HTTP/1.0" 400 13648]
+2020/04/24 17:28:03 INFO [django.server:8:"POST /api/v1/create/ HTTP/1.0" 201 13556]
+2020/04/24 17:30:44 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 17:47:16 INFO [django.server:8:"GET /admin/myapp/remindtime/ HTTP/1.0" 200 4652]
+2020/04/24 17:59:51 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:01:07 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:02:56 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:04:56 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:06:07 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:07:53 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:09:41 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:10:21 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:11:48 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:12:30 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:13:07 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:18:33 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:22:06 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:23:01 WARNING [django.request:8:Not Found: /]
+2020/04/24 18:23:01 WARNING [django.server:8:"GET / HTTP/1.0" 404 2015]
+2020/04/24 18:23:03 WARNING [django.request:8:Not Found: /favicon.ico]
+2020/04/24 18:23:03 WARNING [django.server:8:"GET /favicon.ico HTTP/1.0" 404 2066]
+2020/04/24 18:23:47 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:25:08 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:25:27 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:26:20 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:26:43 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/24 18:28:11 INFO [django.server:8:"GET /admin/ HTTP/1.0" 200 4828]
+2020/04/24 18:28:11 INFO [django.server:8:"GET /admin/ HTTP/1.0" 200 4828]
+2020/04/24 18:28:13 INFO [django.server:8:"GET /admin/myapp/event/ HTTP/1.0" 200 4610]
+2020/04/24 18:28:13 INFO [django.server:8:"GET /admin/jsi18n/ HTTP/1.0" 200 14909]
+2020/04/24 18:28:15 INFO [django.server:8:"GET /admin/myapp/event/1/change/ HTTP/1.0" 200 9350]
+2020/04/24 18:28:15 INFO [django.server:8:"GET /admin/jsi18n/ HTTP/1.0" 200 14909]
+2020/04/24 18:29:34 INFO [django.utils.autoreload:8:Watching for file changes with StatReloader]
+2020/04/27 21:00:14 INFO [django.utils.autoreload:9:Watching for file changes with StatReloader]
